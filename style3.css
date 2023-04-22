@@ -1,0 +1,29 @@
+form{
+top: 70%;
+left: 50%;
+position: absolute;
+translate:-50% -50%;
+border: 1px solid black;
+padding: 3rem;
+margin-top:70px;
+width:50%;
+background-color: #779DEE;
+box-shadow:5px 5px 20px 1px rgb(85,85, 85);
+border-radius:10px 10px 10px;
+color: white;
+height:300px ;
+}
+.form_demo{
+ border-radius:5px;
+ border:1px solide black;
+ padding:2px;
+ font-style:italic;
+}
+h1{
+width:400px;
+height:500px;
+}
+.html{
+    height:310px;
+    width:60%;
+}
